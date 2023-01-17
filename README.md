@@ -6,11 +6,13 @@ its free of costs and can any one study this
 ## demo Images In Files
 
 # for access admin panel
-yourlinkwhereyouupload/adminpro/
+<a href="#"> yourlinkwhereyouupload/adminpro/ </a>
+<ul>
+<li> <b>admin name is </b>: trader </li>
+<li> <b>admin pass is </b>: trader786 </li>
+</ul>
 
-[admin name is : trader]
-[admin pass is : trader786]
+<i> if any issue can mail me we solve for you feel free </i>
 
-if any issue can mail me we solve for you feel free
-
+# Screenshot Demo
 <img src="home_page.png">
