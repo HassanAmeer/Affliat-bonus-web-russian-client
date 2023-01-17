@@ -8,7 +8,9 @@ its free of costs and can any one study this
 # for access admin panel
 yourlinkwhereyouupload/adminpro/
 
-admin name is : trader
-admin pass is : trader786
+[admin name is : trader]
+[admin pass is : trader786]
 
 if any issue can mail me we solve for you feel free
+
+<img src="home_page.png">
