@@ -1,0 +1,9 @@
+[11-May-2022 14:30:04 UTC] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/getsellw/sellsdemo/config.php on line 3
+[11-May-2022 14:30:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/getsellw/sellsdemo/jax1.php on line 13
+[11-May-2022 14:30:04 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/getsellw/sellsdemo/jax1.php on line 14
+[11-May-2022 14:30:04 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/getsellw/sellsdemo/jax1.php on line 116
+[11-May-2022 14:30:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/getsellw/sellsdemo/jax1.php on line 122
+[16-May-2022 08:01:28 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/getsellw/sellsdemo/jax1.php on line 48
+[16-May-2022 08:23:12 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/getsellw/sellsdemo/jax1.php on line 48
+[20-May-2022 16:12:26 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/getsellw/sellsdemo/jax1.php on line 48
+[22-May-2022 23:13:17 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/getsellw/sellsdemo/jax1.php on line 48
