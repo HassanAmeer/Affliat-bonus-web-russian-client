@@ -12,7 +12,7 @@ its free of costs and can any one study this
 <li> <b>admin pass is </b>: trader786 </li>
 </ul>
 
-<i> if any issue can mail me we solve for you feel free </i>
+<i> if any Problems can mail Us feel free </i>
 
 # Screenshot Demo
 <img src="home_page.png">
