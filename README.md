@@ -1,5 +1,5 @@
 # Affliat-bonus-web-russian-client
-its made for russian client but if any users needs this can get 
+its made And Uploaded for russian client but if any users needs this can get 
 also have demo screenshots of projects can see
 its free of costs and can any one study this
 
