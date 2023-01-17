@@ -1,7 +1,7 @@
 # Affliat-bonus-web-russian-client
 its made And Uploaded for russian client but if any users needs this can get 
 also have demo screenshots of projects can see
-its free of costs and can any one study this
+its free of costs and can any one study this 
 
 ## demo Images In Files
 
@@ -15,7 +15,7 @@ its free of costs and can any one study this
 <i> if any Problems can mail Us feel free </i>
 
 # Screenshot Demo
-<img src="home_page.png">
+<img src="home_page.png"> 
 
 
 
